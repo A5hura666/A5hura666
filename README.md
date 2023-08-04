@@ -1,7 +1,8 @@
 
 # 💫 About Me:
-Hi 👋, I'm Ethan Bourguigneau and I'm a junior web developer from France. I aspire to become a good fullstack developer one day.<br><br>🌱 I’m currently learning on the implementation of AI in an application.<br>📫 How to reach me ethanbourguigneau@gmail.com<br>
+🚀 Apprenti full stack en route ! Jeune développeur web enthousiaste, je trace mon parcours vers l'excellence sur GitHub. Chaque projet est une opportunité de grandir en tant que développeur junior, avançant vers mon objectif ultime : devenir un développeur full stack polyvalent. Rejoignez-moi dans cette aventure où nous repoussons les limites du développement web pour créer des solutions performantes et novatrices. Ensemble, allons plus loin ! #DeveloppeurJunior #FullStackEnDevenir
 
+🚀 Embarking on my full-stack adventure! As a young and enthusiastic web developer, GitHub is my playground for honing my craft. I'm determined to excel in both front-end and back-end development, aspiring to be a well-rounded full-stack developer. Join me as we push the boundaries of web development and embark on an exciting journey of innovation! #JuniorDeveloper #FullStackJourney
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ethan_hdb#9057) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ethan_hdb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ethan-bourguigneau-441197263) 

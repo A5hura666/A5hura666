@@ -1,7 +1,8 @@
 module.exports = `
 # 💫 About Me:
-Hi 👋, I'm Ethan Bourguigneau and I'm a junior web developer from France. I aspire to become a good fullstack developer one day.<br><br>🌱 I’m currently learning on the implementation of AI in an application.<br>📫 How to reach me ethanbourguigneau@gmail.com<br>
+🇫🇷 <#bio_profile_fr>
 
+🇺🇸 <#bio_profile_en>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ethan_hdb#9057) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ethan_hdb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ethan-bourguigneau-441197263) 
