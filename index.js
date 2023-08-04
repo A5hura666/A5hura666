@@ -1,6 +1,6 @@
 const readme = require("./readme.js");
 const fs = require("fs");
-require("dotenv").config();
+// require("dotenv").config();
 
 // Global variables
 const DEFAULT_BIO = '';
@@ -9,6 +9,8 @@ const DEFAULT_BIO2 = '';
 
 function generateNewREADME() {
   // TODO: Generate new READMEs
+  const readmeRows = readme.split("\n");
+  return readmeRows.join("\n");
 }
 
 function updateREADME(newREADME) {
@@ -18,8 +20,8 @@ function updateREADME(newREADME) {
 // Function to main 
 async function main() {
   const newREADME = generateNewREADME();
-  console.log(readme);
-  updateREADME(readme);
+  console.log(newREADME);
+  updateREADME(newREADME);
 }
 main();
 

@@ -1,3 +1,4 @@
+
 # 💫 About Me:
 Hi 👋, I'm Ethan Bourguigneau and I'm a junior web developer from France. I aspire to become a good fullstack developer one day.<br><br>🌱 I’m currently learning on the implementation of AI in an application.<br>📫 How to reach me ethanbourguigneau@gmail.com<br>
 
@@ -14,3 +15,4 @@ Hi 👋, I'm Ethan Bourguigneau and I'm a junior web developer from France. I as
 
 ---
 [![](https://visitcount.itsvg.in/api?id=A5hura666&icon=9&color=0)](https://visitcount.itsvg.in)
+
