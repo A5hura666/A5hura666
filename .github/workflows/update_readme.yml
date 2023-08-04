@@ -31,7 +31,7 @@ jobs:
           author_email: ethanbourguigneau@gmail.com
           force: false
           signoff: false
-          message: ':memo: README.md updated with IA'
+          message: ':memo: README.md updated'
         env:
           # This is necessary in order to push a commit to the repo
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
