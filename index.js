@@ -12,14 +12,14 @@ function generateNewREADME() {
 }
 
 function updateREADME(newREADME) {
-  fs.writeFileSync("./README2.md", newREADME);
+  fs.writeFileSync("./README.md", newREADME);
 }
 
 // Function to main 
 async function main() {
   const newREADME = generateNewREADME();
-  console.log(newREADME);
-  updateREADME(newREADME);
+  console.log(readme);
+  updateREADME(readme);
 }
 main();
 
