@@ -43,7 +43,7 @@ function updateREADME(newREADME) {
 // Function to main 
 async function main() {
   const newREADME = generateNewREADME();
-  // console.log(newREADME);
+  console.log(newREADME);
   updateREADME(newREADME);
 }
 main();
