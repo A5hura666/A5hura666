@@ -1,8 +1,8 @@
 
 # 💫 About Me:
-🌱 En herbe, mais déterminé ! Je suis un développeur junior en quête d'apprentissage continu dans le domaine du développement web. Mon GitHub est mon terrain d'entraînement, où je plonge dans les technologies front-end et back-end pour cultiver mes compétences. Je nourris l'ambition de devenir un développeur full stack, capable de concevoir des applications innovantes. Ensemble, cultivons des projets prometteurs ! #DevWebJunior #FuturFullStackDeveloper
+🚀 Apprenti full stack en route ! Jeune développeur web enthousiaste, je trace mon parcours vers l'excellence sur GitHub. Chaque projet est une opportunité de grandir en tant que développeur junior, avançant vers mon objectif ultime : devenir un développeur full stack polyvalent. Rejoignez-moi dans cette aventure où nous repoussons les limites du développement web pour créer des solutions performantes et novatrices. Ensemble, allons plus loin ! #DeveloppeurJunior #FullStackEnDevenir
 
-🌱 Growing and learning! I'm a junior web developer eager to enhance my skills on GitHub. I delve into front-end and back-end technologies, aspiring to become a proficient full-stack developer. Together, let's nurture promising projects and create innovative web applications. #JuniorWebDev #FutureFullStackPro
+🚀 Embarking on my full-stack adventure! As a young and enthusiastic web developer, GitHub is my playground for honing my craft. I'm determined to excel in both front-end and back-end development, aspiring to be a well-rounded full-stack developer. Join me as we push the boundaries of web development and embark on an exciting journey of innovation! #JuniorDeveloper #FullStackJourney
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ethan_hdb#9057) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ethan_hdb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ethan-bourguigneau-441197263) 
