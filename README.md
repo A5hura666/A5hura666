@@ -1,8 +1,8 @@
 
 # 💫 About Me:
-👋 Salut ! Je suis un développeur junior passionné par le développement web. Mon parcours commence ici, sur GitHub, où j'explore les merveilles de la programmation front-end et back-end. Mon objectif est de devenir un développeur full stack accompli, et chaque ligne de code que j'écris me rapproche de cette réalité. Rejoignez-moi dans cette aventure et ensemble, créons des expériences numériques captivantes ! #DéveloppementWeb #FullStackDeveloperEnDevenir
+🌱 En herbe, mais déterminé ! Je suis un développeur junior en quête d'apprentissage continu dans le domaine du développement web. Mon GitHub est mon terrain d'entraînement, où je plonge dans les technologies front-end et back-end pour cultiver mes compétences. Je nourris l'ambition de devenir un développeur full stack, capable de concevoir des applications innovantes. Ensemble, cultivons des projets prometteurs ! #DevWebJunior #FuturFullStackDeveloper
 
-👋 Hello there! I'm an aspiring junior web developer, exploring the exciting world of coding on GitHub. My passion lies in both front-end and back-end development. With each line of code, I am one step closer to becoming a skilled full-stack developer. Join me on this journey as we craft impressive digital experiences together! #WebDevelopment #AspiringFullStack
+🌱 Growing and learning! I'm a junior web developer eager to enhance my skills on GitHub. I delve into front-end and back-end technologies, aspiring to become a proficient full-stack developer. Together, let's nurture promising projects and create innovative web applications. #JuniorWebDev #FutureFullStackPro
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ethan_hdb#9057) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ethan_hdb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ethan-bourguigneau-441197263) 
